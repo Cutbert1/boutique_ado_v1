@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /accounts/
+Disallow: /bag/
+Sitemap: https://boutique-ado-cutbert-361f3075e164.herokuapp.com/sitemap.xml
